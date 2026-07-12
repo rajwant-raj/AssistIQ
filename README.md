@@ -376,11 +376,35 @@ Opens automatically at **`http://localhost:8501`**
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your running application here)*
+### 🏠 Home Dashboard
 
-| Main Chat Interface | Sidebar Panel |
-|---|---|
-| `[Screenshot Placeholder]` | `[Screenshot Placeholder]` |
+![Home Dashboard](screenshots/home.png)
+
+The welcome screen featuring the premium glassmorphism interface, live status indicator, chat window, quick action buttons, and sidebar.
+
+---
+
+### 📦 Order Status
+
+![Order Status](screenshots/order-status.png)
+
+The chatbot asks for an Order ID and displays the current order processing status with tracking information.
+
+---
+
+### 🚚 Shipping Information
+
+![Shipping Information](screenshots/shipping.png)
+
+Shows available delivery methods including Standard, Express, and Same-Day delivery.
+
+---
+
+### 💳 Payment Methods
+
+![Payment Methods](screenshots/payment.png)
+
+Displays all supported payment methods including UPI, Debit Card, Credit Card, Net Banking, COD, and Gift Cards.
 
 ---
 
