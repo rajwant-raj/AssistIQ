@@ -319,6 +319,11 @@ The **entry point** that assembles the full app:
 ```
 AssistIQ/
 │
+├── screenshots/
+    ├── home.png
+    ├── order-status.png
+    ├── shipping.png
+    ├── payment.png
 ├── app.py              # Main Streamlit application (all logic + UI)
 ├── requirements.txt    # Python dependencies (only: streamlit)
 └── README.md           # Project documentation (this file)
