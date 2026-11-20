@@ -56,24 +56,7 @@ AssistIQ uses a **premium dark glassmorphism** UI with a **violet + cyan** accen
 
 ---
 
-# 🎓 Internship Information
-
-| **Organization** | Codec Technologies |
-|------------------|--------------------|
-| **Internship Domain** | Artificial Intelligence (AI) |
-| **Internship Duration** | 1 Month |
-| **Project Title** | AssistIQ – Customer Service Chatbot |
-| **Project Category** | Rule-Based Customer Support Chatbot |
-
-## 📖 About the Internship Project
-
-This project was developed as part of the **Codec Technologies Artificial Intelligence Internship Program**.
-
-The objective of this internship project was to design and implement a **rule-based Customer Service Chatbot** capable of handling common customer queries through an interactive web application.
-
-AssistIQ was built using **Python** and **Streamlit** and demonstrates concepts of rule-based chatbot development, keyword-based intent recognition, session state management, and modern UI design. The application provides an intuitive customer support experience through quick-action buttons, conversational chat, and predefined responses without relying on external AI APIs or machine learning models.
-
-### 🎯 Internship Objective
+### 🎯 Objective
 
 Develop a rule-based or simple NLP-based chatbot capable of answering basic customer queries while providing a user-friendly customer support experience.
 
